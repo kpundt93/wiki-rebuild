@@ -1,0 +1,25 @@
+.container {
+  padding-left: 0;
+  margin-left: 0;
+}
+
+.sidebar {
+  position: fixed;
+}
+
+.row ul {
+  padding-left: 15px;
+}
+
+.row ul li {
+  list-style-type: none;
+}
+
+.row h2 {
+  font-size: 1.5em;
+  padding-left: 15px;
+}
+
+.top-nav {
+  display: inline;
+}
